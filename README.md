@@ -32,6 +32,11 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 ![4](https://user-images.githubusercontent.com/95719819/164983500-d753b27a-60ec-439c-9aa3-1c733cbe12ba.png)
 
+  **Tables are created in pgAdmin and the dataframes are loaded to the corresponding tables**
+  
+  ![1](https://user-images.githubusercontent.com/95719819/165000406-121ecfec-39e5-4fe8-b8f7-dbdee3828c5b.png)
+
+
 ### Deliverable 2
 
   - Using PySpark, determine if there is any bias towards reviews that were written as part of the Vine program. 
